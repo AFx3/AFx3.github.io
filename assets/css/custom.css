@@ -1,0 +1,28 @@
+body {
+    background-color: #000000; /* Black background */
+    color: #ffffff;            /* White text */
+  }
+  
+  a {
+    color: #1e90ff; /* Links in blue color */
+  }
+  
+  a:hover {
+    color: #00bfff; /* Links when hovered in a lighter blue */
+  }
+  
+  /* Optional: Style the header if needed */
+  header {
+    background-color: #333333; /* Dark grey header */
+  }
+  
+  /* Optional: Style the footer if needed */
+  footer {
+    background-color: #333333; /* Dark grey footer */
+  }
+  
+  /* Optional: Add more custom styles for specific elements */
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* White headings */
+  }
+  
