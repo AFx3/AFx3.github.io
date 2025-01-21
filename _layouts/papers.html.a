@@ -15,10 +15,16 @@
 
                 <!-- Header -->
                 <header id="header">
-                    <h1>About</h1>
-                    <p>I am a first-year PhD student at the IMT School for Advanced Studies Lucca, enrolled in the Systems Science PhD program, software quality track. I am part of the SySMA research unit.</p>
-                    <p>My research interests lie in formal methods and language-based technologies for security. My current work centers on static analysis techniques for detecting bugs in the cross-language scenario.</p>
-                    <p> </p>
+                    <h1>Papers</h1>
+                    <p></p>
+                    <p></p>
+                    <ul>
+                        <li><a href="./assets/papers/ITASEC2025_Multi_Language_Analysis.pdf" download>Andrea Franceschi, Letterio Galletta, Pierpaolo Degano - Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code - ITASEC25: Italian Conference on Cybersecurity - Oral Communication</a></li>
+                        <!-- 
+                        <li><a href="path/.pdf" download>Paper Title 2</a></li>
+                        <li><a href="path.pdf" download>Paper Title 3</a></li>
+                        -->
+                    </ul>
                     <p>
                     <ul>
                         <!-- Link back to home page -->
@@ -34,7 +40,7 @@
 
                 <!-- Footer -->
                 <footer id="footer">
-                    <span class="copyright">&copy; Andrea Franceschi. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+                    <span class="copyright">&copy; Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
                 </footer>
 
             </div>
