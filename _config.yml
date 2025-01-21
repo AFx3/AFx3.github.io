@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage of Andrea Franceschi, PhD student at IMT School for Advanced Studies Lucca.
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  AFx3
 
 # Build settings
 theme: minima
