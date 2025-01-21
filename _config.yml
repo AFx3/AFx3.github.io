@@ -32,7 +32,7 @@ linkedin_username: www.linkedin.com/in/afx3
 theme: minima
 plugins:
   - jekyll-feed
-css: "assets/css/custom.css"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
