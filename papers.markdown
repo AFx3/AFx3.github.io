@@ -10,4 +10,4 @@ permalink: /papers/
 #   [Download PDF](assets/papers/ITASEC2025_Multi_Language_Analysis.pdf)
 
 ---
-*(*)Oral communication*
+(*)Oral communication
