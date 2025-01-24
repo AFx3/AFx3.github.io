@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Papers
-permalink: /papers/
+permalink: /papers
+permalink_name: /papers
+title: Andrea Franceschi
 ---
 
 # Papers

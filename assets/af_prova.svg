@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="50" style="background-color:#000;">
+  <rect width="80" height="80" fill="#000"/>
+  <text x="60" y="60" fill="#2ed573" font-family="'Source Code Pro', monospace" font-size="36">
+    Andrea Franceschi
+  </text>
+</svg>
