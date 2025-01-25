@@ -1,15 +1,26 @@
-<footer>
+<footer style="text-align: center; padding: 20px; background-color: black; color: white;">
 
-  {{ site.title }}/{{ page.permalink_name | replace: "/", "" | replace: " ", "-" }}
-  <br><br>
-  {% if site.github_username and site.github_username != "" %} 
-    Github: <a href="https://github.com/{{site.github_username}}">@{{ site.github_username }}</a> 
-  {% endif %}
-  {% if site.linkedin_username and site.linkedin_username != "" %} 
-    Linkedin: <a href="https://linkedin.com/in/{{site.linkedin_username}}">@{{ site.linkedin_username }}</a> 
-  {% endif %}
-  {% if site.email and site.email != "" %} 
-    Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a> 
-  {% endif %}
-
-</footer>
+    {{ site.title }}/{{ page.permalink_name | replace: "/", "" | replace: " ", "-" }}
+    <br><br>
+    
+    <!-- Icone per Github, LinkedIn e Gmail -->
+    <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+      {% if site.github_username and site.github_username != "" %}
+        <a href="https://github.com/{{ site.github_username }}" target="_blank" style="color: inherit; text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width: 30px; height: 30px;">
+        </a>
+      {% endif %}
+      {% if site.linkedin_username and site.linkedin_username != "" %}
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="color: inherit; text-decoration: none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+        </a>
+      {% endif %}
+      {% if site.email and site.email != "" %}
+        <a href="mailto:{{ site.email }}" style="color: inherit; text-decoration: none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" style="width: 30px; height: 30px;">
+        </a>
+      {% endif %}
+    </div>
+  
+  </footer>
+  
