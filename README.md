@@ -1,7 +1,8 @@
 <img src="assets/theme_logo.svg" class="detail_header">
 
 # Run it locally:
-```bundle exec jekyll serve 
+```
+bundle exec jekyll serve 
 ```
 
 # jekyll-shell-theme
