@@ -12,7 +12,7 @@ title: Andrea Franceschi
 # About
 
 I am a first-year PhD student at the IMT School for Advanced Studies Lucca, enrolled in the Systems Science PhD program (Software Quality track), member of the SySMA research unit.
-My research interests lie in formal methods and software security. My current research work centers on static analysis techniques for detecting bugs in multi-language software. In particular, Rust programs interacting with C/C++.
+My research interests lie in formal methods and software security. My current research work centers on static analysis techniques for detecting bugs in multi-language software. In particular, Rust programs interacting with potentially unsafe code (like C/C++).
 
 ---
 # Past conferences/talks
