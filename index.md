@@ -11,11 +11,26 @@ title: Andrea Franceschi
 
 # About
 
-I am a first-year PhD student at the IMT School for Advanced Studies Lucca, enrolled in the Systems Science PhD program (Software Quality track), member of the SySMA research unit.
-My research interests lie in formal methods and software security. My current research work centers on static analysis techniques for detecting bugs in multi-language software. In particular, Rust programs interacting with potentially unsafe code (like C/C++).
+Bachelor in “Computer Systems and Network Security” at “Università degli Studi di Milano”, with a particular focus on cybersecurity.
+
+
+Master in Computer Science at “Università di Pisa”, with majors: ICT Solutions Architect, with the master thesis: "Taint Analysis for Detecting Memory Issues in Multi-language Programs." 
+
+
+Teaching assistant for the M.Sc. courses “Advanced Software Engineering and “Mobile and Cyber-Physical Systems”.
+
+
+Since November 2024, PhD student at the "IMT School for Advanced Studies Lucca", enrolled in the Systems Science - Software Quality track, supervisors Letterio Galletta and Pierpaolo
+Degano. Memober of the SySMA research unit.
 
 ---
-# Past conferences/talks
+
+# Current research
+
+My current research work centers on static analysis techniques for detecting memory bugs in multi-language software. In particular, Rust programs interacting with potentially unsafe foreign code (i.e.: C/C++) exploiting the Abstract Interpretation theory.
+
+---
+# Conferences/talks
 
 ITASEC & SERICS JOINT NATIONAL CONFERENCE ON CYBERSECURITY - Bologna (IT), Plesso Belmeloro - Via B. Andreatta, 8 ROOM F - February 05, 2025 - 11:10 am - Preliminary paper work, *Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code* - *Andrea Franceschi, Letterio Galletta and Pierpaolo Degano*     
 # [Link](https://itasec.it/)
