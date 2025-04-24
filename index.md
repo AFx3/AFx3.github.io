@@ -20,8 +20,7 @@ Master in Computer Science at “Università di Pisa”, with majors: ICT Soluti
 Teaching assistant for the M.Sc. courses “Advanced Software Engineering and “Mobile and Cyber-Physical Systems”.
 
 
-Since November 2024, PhD student at the "IMT School for Advanced Studies Lucca", enrolled in the Systems Science - Software Quality track, supervisors Letterio Galletta and Pierpaolo
-Degano. Memober of the SySMA research unit.
+Since November 2024, PhD student at the "IMT School for Advanced Studies Lucca", enrolled in the Systems Science - Software Quality track, supervisors Letterio Galletta and Pierpaolo Degano. Member of the SySMA research unit.
 
 ---
 
