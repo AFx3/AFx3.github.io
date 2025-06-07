@@ -11,22 +11,22 @@ title: Andrea Franceschi
 
 # About
 
-Bachelor in “Computer Systems and Network Security” at “Università degli Studi di Milano”, with a particular focus on cybersecurity.
+Bachelor in “Computer Systems and Network Security” at “Università degli Studi di Milano” (2019-2022).
 
 
-Master in Computer Science at “Università di Pisa”, with majors: ICT Solutions Architect, with the master thesis: "Taint Analysis for Detecting Memory Issues in Multi-language Programs." 
+Master in Computer Science at “Università di Pisa”, with majors: ICT Solutions Architect, with the master thesis: "Taint Analysis for Detecting Memory Issues in Multi-language Programs" (2022-2024). 
 
 
-Teaching assistant for the M.Sc. courses “Advanced Software Engineering and “Mobile and Cyber-Physical Systems”.
+Teaching assistant for the M.Sc. courses “Advanced Software Engineering" (2023) and “Mobile and Cyber-Physical Systems” (2024).
 
 
-Since November 2024, PhD student at the "IMT School for Advanced Studies Lucca", enrolled in the Systems Science - Software Quality track, supervisors Letterio Galletta and Pierpaolo Degano. Member of the SySMA research unit.
+Since November 2024, PhD student at the "IMT School for Advanced Studies Lucca", enrolled in the Systems Science - Software Quality track, advisors Letterio Galletta and Pierpaolo Degano. Member of the SySMA research unit.
 
 ---
 
 # Current research
 
-My current research work centers on static analysis techniques for detecting memory bugs in multi-language software. In particular, Rust programs interacting with potentially unsafe foreign code (i.e.: C/C++) exploiting the Abstract Interpretation theory.
+Static analysis techniques for detecting memory bugs in multi-language software. In particular, Rust programs interacting with potentially unsafe foreign code (i.e.: C/C++).
 
 ---
 # Conferences/talks
