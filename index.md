@@ -17,9 +17,6 @@ Bachelor in “Computer Systems and Network Security” at “Università degli 
 Master in Computer Science at “Università di Pisa”, with majors: ICT Solutions Architect, with the master thesis: "Taint Analysis for Detecting Memory Issues in Multi-language Programs" (2022-2024). 
 
 
-Teaching assistant for the M.Sc. courses “Advanced Software Engineering" (2023) and “Mobile and Cyber-Physical Systems” (2024).
-
-
 Since November 2024, PhD student at the "IMT School for Advanced Studies Lucca", enrolled in the Systems Science - Software Quality track, advisors Letterio Galletta and Pierpaolo Degano. Member of the SySMA research unit.
 
 ---
