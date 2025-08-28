@@ -27,10 +27,16 @@ Static analysis techniques for detecting memory bugs in multi-language software.
 
 ---
 # Conferences/talks
+## Next
+23rd International Conference on Software Engineering and Formal Methods (SEFM 25) - University of Castilla-La Mancha (UCLM) - Toledo, Spain
+*Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code* - *Andrea Franceschi, Letterio Galletta and Pierpaolo Degano*
 
+---
+## Past
 Secure Software From First Principles Workshop - Joining Forces SWOPS and SOP-SWOPS in Collaboration (SERICS - SPOKE 6) - Università di Pisa - Pisa (IT) - May 12, 2025
 Preliminary paper work, *Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code* - *Andrea Franceschi, Letterio Galletta and Pierpaolo Degano*
 
+---
 ITASEC & SERICS JOINT NATIONAL CONFERENCE ON CYBERSECURITY - ALMA MATER STUDIORUM - Università di Bologna - Bologna (IT), Plesso Belmeloro - Via B. Andreatta, 8 ROOM F - February 05, 2025 - 11:10 am - Preliminary paper work, *Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code* - *Andrea Franceschi, Letterio Galletta and Pierpaolo Degano*     
 # [Link](https://itasec.it/)
 
