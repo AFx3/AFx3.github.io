@@ -27,12 +27,13 @@ Static analysis techniques for detecting memory bugs in multi-language software.
 
 ---
 # Conferences/talks
-## Next
+
+---
+## Past
 23rd International Conference on Software Engineering and Formal Methods (SEFM 25) - University of Castilla-La Mancha (UCLM) - Toledo, Spain
 *Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code* - *Andrea Franceschi, Letterio Galletta and Pierpaolo Degano*
 
 ---
-## Past
 Secure Software From First Principles Workshop - Joining Forces SWOPS and SOP-SWOPS in Collaboration (SERICS - SPOKE 6) - Università di Pisa - Pisa (IT) - May 12, 2025
 Preliminary paper work, *Detecting Memory Errors in Rust Programs Including Unsafe Foreign Code* - *Andrea Franceschi, Letterio Galletta and Pierpaolo Degano*
 
