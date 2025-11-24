@@ -5,12 +5,12 @@
     
     <!-- Icone per Github, LinkedIn e Gmail -->
     <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-      {% if site.scholar_useranme and site.scholar_useranme != "" %}
+      {% if site.scholar_username and site.scholar_username != "" %}
         <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" style="color: white; text-decoration: none;">
           <img src="https://cdn-icons-png.flaticon.com/512/4942/4942174.png" alt="Email" style="width: 30px; height: 30px; filter: invert(1);">
         </a>
       {% endif %}
-      {% if site.orcid_useranme and site.orcid_useranme != "" %}
+      {% if site.orcid_username and site.orcid_username != "" %}
         <a href="https://orcid.org/{{ site.orcid_username }}" style="color: white; text-decoration: none;">
           <img src="https://cdn-icons-png.flaticon.com/512/5584/5584501.png" alt="Orcid" style="width: 30px; height: 30px; filter: invert(1);">
         </a>
