@@ -27,7 +27,6 @@ Static analysis techniques for detecting memory bugs in multi-language software.
 
 ---
 # Conferences/talks
-
 ---
 ## Past
 23rd International Conference on Software Engineering and Formal Methods (SEFM 25) - University of Castilla-La Mancha (UCLM) - Toledo, Spain
