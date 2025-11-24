@@ -5,6 +5,16 @@
     
     <!-- Icone per Github, LinkedIn e Gmail -->
     <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+      {% if site.scholar_useranme and site.scholar_useranme != "" %}
+        <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" style="color: white; text-decoration: none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/4942/4942174.png" alt="Email" style="width: 30px; height: 30px; filter: invert(1);">
+        </a>
+      {% endif %}
+      {% if site.orcid_useranme and site.orcid_useranme != "" %}
+        <a href="https://orcid.org/{{ site.orcid_username }}" style="color: white; text-decoration: none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/5584/5584501.png" alt="Email" style="width: 30px; height: 30px; filter: invert(1);">
+        </a>
+      {% endif %}
       {% if site.github_username and site.github_username != "" %}
         <a href="https://github.com/{{ site.github_username }}" target="_blank" style="color: inherit; text-decoration: none;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width: 30px; height: 30px;  filter: invert(1);">
@@ -20,11 +30,7 @@
           <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" style="width: 30px; height: 30px;">
         </a>
       {% endif %}
-      {% if site.scholar_useranme and site.scholar_useranme != "" %}
-        <a href="https://scholar.google.com/citations?user={{ site.scholar_username }}" style="color: white; text-decoration: none;">
-          <img src="https://cdn-icons-png.flaticon.com/512/4942/4942174.png" alt="Email" style="width: 30px; height: 30px; filter: invert(1);">
-        </a>
-      {% endif %}
+      
     </div>
   
   </footer>
